@@ -1,2 +1,2 @@
-# JavaScript_Dialogs_AB_kursi
-JavaScript klade
+# Class_01_20220502
+# Class_02_20220509
