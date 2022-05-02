@@ -11,8 +11,9 @@
 ## ASCII table
 
 **ASCII table of symbols**  
-![ASCII table](http://www.ecowin.org/aulas/resources/tables/asciitable.jpg)  
-(reference [here](https://www.ecowin.org/ascii.htm))  
+![ASCII table](http://www.ecowin.org/aulas/resources/tables/asciitable.jpg)   
+ASCII table contains 128 symbols[^reference]  
+[^reference]: [Reference link](https://www.ecowin.org/ascii.htm)   
 
 For example, "A" symbol is 0100 0001 binary code
 - bit is a 0 or 1 
