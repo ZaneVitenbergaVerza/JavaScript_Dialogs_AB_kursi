@@ -32,7 +32,6 @@ Class_01_20220502
 - instead of spaces, use sign :pushpin: **_**
 
 **README.md**
-
 [Basic writing and formatting syntax](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)  
 - README.md contains formating
 - :pushpin: **<> Edit new file** contains raw text
