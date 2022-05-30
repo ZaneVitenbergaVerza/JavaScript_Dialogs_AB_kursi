@@ -6,7 +6,8 @@
 
 3. Repozitorija mape  
 
-VSC
+**VSC**  
+
 Visas izmaiņas, ko raksta lokāli, saaglabā repozitorijā  
 
 Changes -> Stage All Changes 
