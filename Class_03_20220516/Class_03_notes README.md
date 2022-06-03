@@ -46,7 +46,7 @@ Algoritms no dec to bin
 2 : 2 = 1 0  
 1 : 2 = 0 1  
 90 dec ir 'atlikums' no apakšas uz augšu 
-jeb 1011010 bin  
+jeb 10101010 bin  
 
 Algoritms no bin to dec  
 01011010 bin  
