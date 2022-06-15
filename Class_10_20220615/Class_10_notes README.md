@@ -60,3 +60,9 @@ Ar skaitli kvadrātiekavās izsauc dimensijas līmeni
 cars[0].length; 
 2
 
+# Sakārtošana  
+Pēc šīs darbības masīvs izmainās
+Sakārto alfabēta secībā
+
+cars.sort() 
+
