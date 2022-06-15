@@ -35,7 +35,11 @@ var g = 40009.88;
 document.getElementById("garums").innerHTML = g;
 
 var vards_uzvards = "Jānis Bērziņš,";
-var nauda = 15000;
+var nauda = 15000;  
+
+// papildu uzdevums Nr. 1 - attēlot summas ar divām zīmēm aiz komata (punkts; 6.00 Eur)  
+// palabot algoritmu - ja procentu izmaksa notiek vienu reizi termiņa beigās  
+
 var pelna_1 = (nauda * 0.0001) * 1;
 var pelna_2 = (nauda * 0.0002) * 2;
 var pelna_3 = (nauda * 0.0003) * 3;
