@@ -39,9 +39,10 @@ cars[10] = "Opel";
 cars; 
 (11) ['Saab', 'Volvo', empty × 8, 'Opel']  
 
-# Masīvs masīvā 
-const person = [["BBB", 100], "AAA", 45]  
+# Masīvs masīvā   
+Kvadrātiekavas definē dimensijas; iekavas iekš iekavām utt.   
 
+const person = [["BBB", 100], "AAA", 45]  
 const cars = [["BMW", "Audi"], [["X3", "X5"], ["Q1", "Q2"]]];
 undefined
 i = 0; 
@@ -53,5 +54,9 @@ i = 1;
 cars[0][i] + " markas mašīnas ir: " + cars[1][i]
 'Audi markas mašīnas ir: Q1,Q2'  
 
+# Masīva garums - cik ir elementu skaits vienā dimensijā  
+Ar skaitli kvadrātiekavās izsauc dimensijas līmeni  
 
+cars[0].length; 
+2
 
