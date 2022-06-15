@@ -39,4 +39,7 @@ cars[10] = "Opel";
 cars; 
 (11) ['Saab', 'Volvo', empty × 8, 'Opel']  
 
+Masīvs masīvā 
+const person = [["BBB", 100], "AAA", 45]  
+
 
