@@ -1,16 +1,20 @@
+https://javascript.info/switch
+A switch statement can replace multiple if checks.  
+
+
 x = 10; 
-swith(x) { 
+switch(x) { 
     case 9:  
-    console.log("X ir precīzi 9"); 
-    break; 
+        console.log("x ir precīzi 9"); 
+        break; 
     case 10: 
-    console.log("X ir precīzi 10"); 
-    break;
+        console.log("x ir precīzi 10"); 
+        break;
     case 11: 
-    console.log("X ir precīzi 11"); 
-    break;
+        console.log("x ir precīzi 11"); 
+        break;
     default: 
-    console.log("neviens no pieteiktajiem stāvokļiem nav bijis"); 
+        console.log("neviens no pieteiktajiem stāvokļiem nav bijis"); 
 }
 
 
