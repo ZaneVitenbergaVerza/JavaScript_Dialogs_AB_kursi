@@ -62,7 +62,14 @@ cars[0].length;
 
 # Sakārtošana  
 Pēc šīs darbības masīvs izmainās
-Sakārto alfabēta secībā
+Sakārto alfabēta secībā (pēc noklusējuma, ASCII)
 
 cars.sort() 
+
+Var sakārtot arī pēc izvēles  
+[11, 2, 22, 1].sort((a, b) => a - b)
+(4) [1, 2, 11, 22]
+[11, 2, 22, 1].sort((a, b) => b - a)
+(4) [22, 11, 2, 1]   
+
 
