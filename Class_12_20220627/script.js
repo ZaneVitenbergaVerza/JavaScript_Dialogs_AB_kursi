@@ -1,5 +1,4 @@
 x = 10
-10
 switch(x) { 
     case 9:  
         console.log("x ir precīzi 9"); 
