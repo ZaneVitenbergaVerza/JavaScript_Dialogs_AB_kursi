@@ -8,11 +8,11 @@ for (let i = 1; i < 11; i++){
     text = text + i + "<br>" + " ir pāra skaitlis"; 
 }
 
-    else (i % 2 == 1) {
+    else (i % 2 == 1) 
     text = text + i + "<br>" + " ir nepāra skaitlis"; 
     }
 
-}
+
 
 document.getElementById("auto_count").innerHTML = text;
 
