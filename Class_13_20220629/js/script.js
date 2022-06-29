@@ -7,7 +7,7 @@ for (let i = 1; i < 5; i++){
     text = text + i + "<br>"; 
 }
 
-document.getElementById("auto_count").innerHTML = "1<br>2<br>3<br>4<br>";
+document.getElementById("auto_count").innerHTML = text;
 
 /* 
 text += cars[0] + "<br>"; 
