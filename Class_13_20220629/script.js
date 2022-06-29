@@ -1,5 +1,4 @@
 console.log("Skripta izpildes sākums:\n" + new Date());
-
 document.getElementById("manual_count").innerHTML = "1<br>2<br>3<br>"; 
 
 /* 
