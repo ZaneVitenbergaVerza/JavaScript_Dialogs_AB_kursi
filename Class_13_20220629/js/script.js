@@ -7,8 +7,13 @@ for (let i = 1; i < 26; i++){
     if (i % 2 == 0) {
     text = text + i + " dalās ar 2 <br>"; 
 } if (i % 3 == 0) { 
-        text = text + i + " dalās ar 3<br>"; 
-    } 
+    text = text + i + " dalās ar 3 <br>"; 
+} if (i % 5 == 0) { 
+    text = text + i + " dalās ar 5 <br>"; 
+} if (i % 2 == 0, i % 3 == 0) { 
+    text = text + i + " dalās ar 2 un 3 <br>"; 
+}
+
 }
 
 
