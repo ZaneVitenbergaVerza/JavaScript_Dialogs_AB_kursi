@@ -5,7 +5,7 @@ let text = "";
 
 for (let i = 1; i < 26; i++){
     if (i % 2 == 0) {
-    text = text + i + "<br> dalās ar 2"; 
+    text = text + i + "dalās ar 2 <br>"; 
 }}
 
 document.getElementById("auto_count").innerHTML = text;
