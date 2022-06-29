@@ -5,11 +5,11 @@ let text = "";
 
 for (let i = 1; i < 11; i++){
     if (i % 2 == 0) {
-    text = text + i + "<br>" + "- pāra skaitlis"; 
+    text = text + i + "<br>" + " ir pāra skaitlis"; 
 }
 
     else (i % 2 == 1) {
-    text = text + i + "<br>" + " - nepāra skaitlis"; 
+    text = text + i + "<br>" + " ir nepāra skaitlis"; 
     }
 
 }
