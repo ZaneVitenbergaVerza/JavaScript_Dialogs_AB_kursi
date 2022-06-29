@@ -8,7 +8,7 @@ for (let i = 1; i < 11; i++){
     text = text + i + " ir pāra skaitlis<br>"; 
 }
 
-    else (i % 2 == 1) 
+    else
     text = text + i + " ir nepāra skaitlis<br>"; 
     }
 
